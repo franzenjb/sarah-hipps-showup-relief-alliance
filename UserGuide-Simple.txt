@@ -1,0 +1,61 @@
+# ShowUp Relief Alliance - Simple User Guide
+
+## What is this system?
+ShowUp Relief Alliance is an emergency response system that helps people get help during disasters. It's built with Google tools that everyone already knows how to use.
+
+## The Three Main Parts
+
+### 1. PUBLIC WEBSITE - For Citizens
+**Link:** https://sites.google.com/jbf.com/showup-relief-alliance/home
+- People request help (food, water, shelter)  
+- Volunteers offer help
+- View map of resources
+
+### 2. ADMIN DASHBOARD - For Staff Only  
+**Link:** https://sites.google.com/jbf.com/showupreliefalliancedashboard/home
+- View all help requests with contact info
+- See volunteer information
+- Edit maps and resources
+
+### 3. DATA SPREADSHEET - The Brain
+**Link:** https://docs.google.com/spreadsheets/d/1-pbTqLMntCFuJ_ydOfmW7F_qyFDZPjZy4LCv8YE5tMo/edit
+- Saves all form responses automatically
+- Sends emergency email alerts
+- Stores all data safely
+
+## Daily Routine (5 minutes each morning)
+1. Check email for emergency alerts (🚨 Emergency emails)
+2. Open admin dashboard for new requests  
+3. Check spreadsheet for high-priority needs
+
+## Emergency Alert Response
+When you get red emergency emails:
+1. Call the phone number immediately
+2. Send help or connect with resources
+3. Update spreadsheet as 'handled'
+
+## Weekly Mapping (10 minutes once per week)
+1. Open spreadsheet
+2. Click '📍 Mapping Tools' menu
+3. Click '🗺️ Export for Map'  
+4. Download and upload to map
+
+## 5-Minute Emergency Setup
+If you need this working RIGHT NOW:
+1. Copy the working spreadsheet (File → Make a Copy)
+2. Update email address in Apps Script
+3. Share form links with public
+
+## Quick Reference Links
+- **Public Portal:** https://sites.google.com/jbf.com/showup-relief-alliance/home
+- **Admin Dashboard:** https://sites.google.com/jbf.com/showupreliefalliancedashboard/home  
+- **Data Spreadsheet:** https://docs.google.com/spreadsheets/d/1-pbTqLMntCFuJ_ydOfmW7F_qyFDZPjZy4LCv8YE5tMo/edit
+
+## Remember
+- Keep private information confidential
+- Respond to emergency alerts immediately  
+- Update maps weekly
+- This system connects people who need help with people who can help
+
+---
+Sarah Hipps ShowUp Relief Alliance | October 2024
