@@ -80,7 +80,7 @@ Details: Diabetic emergency, needs insulin
 2. **Send help or connect them with resources**
 3. **Update the spreadsheet** to mark it as "handled"
 
-### **🗺️ WEEKLY MAPPING (Once per week, 10 minutes)**
+### **🗺️ DAILY MAPPING (Once per day, 10 minutes)**
 1. **Open the spreadsheet**
 2. **Look for a menu called "📍 Mapping Tools"**
 3. **Click "🗺️ Export for Map"**
@@ -261,6 +261,6 @@ Details: Diabetic emergency, needs insulin
 
 ---
 
-**📅 Guide Updated**: October 2024  
+**📅 Guide Updated**: October 2025  
 **🆘 System Status**: Ready for Emergency Use  
 **👥 For**: Sarah Hipps ShowUp Relief Alliance
